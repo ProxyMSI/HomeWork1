@@ -1,0 +1,20 @@
+ul {
+  list-style: inside;
+  color: blue;
+}
+ol {
+  list-style-type: disc;
+}
+ul {
+  padding: auto;
+  margin: 4px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 125%;
+}
+li {
+  padding: auto;
+  margin: 2px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 110%;
+  color: black;
+}
